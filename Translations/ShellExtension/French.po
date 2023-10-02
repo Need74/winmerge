@@ -6,6 +6,7 @@
 #
 # Translators:
 # * Lolo S. <slolo2000 at hotmail.com>
+# * Need74 <need74 at free.fr>
 #
 msgid ""
 msgstr ""
@@ -54,7 +55,7 @@ msgstr "Win&Merge"
 #: ShellExtension.rc:113
 #, c-format
 msgid "Compare &As"
-msgstr "Comparer C&omme"
+msgstr "Comparer par type =>"
 
 #: ShellExtension.rc:114
 #, c-format
